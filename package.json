@@ -1,0 +1,13 @@
+{
+  "name": "data-structures-and-algorithms",
+  "author": "Vlad Doroniuk",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms in TypeScript",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^0.27.1"
+  }
+}
