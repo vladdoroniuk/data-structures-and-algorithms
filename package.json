@@ -5,9 +5,11 @@
   "description": "Data Structures and Algorithms in TypeScript",
   "license": "MIT",
   "scripts": {
+    "dsa": "create-dsa-folder",
     "test": "vitest"
   },
   "devDependencies": {
+    "create-dsa-folder": "^0.1.9",
     "vitest": "^0.27.1"
   }
 }
