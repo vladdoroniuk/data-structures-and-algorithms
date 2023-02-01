@@ -172,10 +172,10 @@ check-error@^1.0.2:
   resolved "https://registry.yarnpkg.com/check-error/-/check-error-1.0.2.tgz#574d312edd88bb5dd8912e9286dd6c0aed4aac82"
   integrity sha512-BrgHpW9NURQgzoNyjfq0Wu6VFO6D7IZEmJNdtgNqpzGG8RuNFHt2jQxWlAs4HMe119chBnv+34syEZtc6IhLtA==
 
-create-dsa-folder@^0.3.0:
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/create-dsa-folder/-/create-dsa-folder-0.3.0.tgz#0464b6ae1f8b6c7eba07327cfcbc977a94758f4b"
-  integrity sha512-sxowzaEtI9xibtYt/O9/8F+zRRX2wlunLyVOMnpp/7VEnYBzPf1N1rYmHChL5X+r/oU29uxEe9YrAeHSso4gYA==
+create-dsa-folder@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/create-dsa-folder/-/create-dsa-folder-1.1.0.tgz#eec741deb92924dae39d11a4e763f703c8d0f03f"
+  integrity sha512-B6rNYOda/tumNgfGymkhaDNDAaDvZP64jwSg1dOwDG5T4hxZs3gFeNZVm8RHfNGXftPsj7TAIRmzWCn2atVp+w==
 
 debug@^4.3.4:
   version "4.3.4"

@@ -9,7 +9,7 @@
     "test": "vitest"
   },
   "devDependencies": {
-    "create-dsa-folder": "^0.3.0",
+    "create-dsa-folder": "^1.1.0",
     "vitest": "^0.27.1"
   }
 }
