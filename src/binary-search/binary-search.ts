@@ -4,7 +4,8 @@ export function binary_search(list: number[], element: number) {
   let right = n - 1;
 
   while (left <= right) {
-    let mid = Math.floor((left + right) / 2);
+    let midFloat = (left + right) / 2;
+    let mid = midFloat - (midFloat % 1);
 
     if (list[mid] > element) {
       right = mid - 1;
