@@ -23,21 +23,14 @@ The list is occasionally updated.
 
 ### Data Structures
 
-- Trees
-  - [Binary tree](./binary-tree/) (todo)
-  - [B-tree](./b-tree/) (todo)
-- Linear data structures
-  - [Linked list](./linked-list/) (todo)
-  - [Doubly linked list](./doubly-linked-list/) (todo)
+_Currently none_
 
 ### Algorithms
 
 - Sorting
-  - [Bubble sort](./bubble-sort/)
-  - [Quicksort](./quicksort/) (todo)
-- Sets
-  - [Fisher–Yates shuffle](./fisher-yates-shuffle/) (todo)
-  - [Knapsack problem](./knapsack-problem/) (todo)
+  - [Bubble sort](./src/bubble-sort/)
+- Searching
+  - [Binary search](./src/binary-search/)
 
 ## Testing
 
