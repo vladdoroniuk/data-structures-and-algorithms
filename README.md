@@ -1,6 +1,6 @@
-# Data Structures and Algorithms in TypeScript
+# Data Structures and Algorithms in Go
 
-The repository contains my own implementations of various data structures and algorithms (DSA) in [TypeScript](https://github.com/microsoft/TypeScript).
+The repository contains my own implementations of various data structures and algorithms (DSA) in [Go](https://go.dev).
 
 ## Overview
 
@@ -8,14 +8,12 @@ Each DSA resides in its own folder with the following structure:
 
 ```
 dsa-name
-├─ dsa-name.ts
-├─ dsa-name.test.ts
+├─ dsa_name.go
+├─ dsa_name_test.go
 └─ README.md
-
-kebab case looks pretty decent 🤔
 ```
 
-Some algorithms may have several implementations in a single `.ts` file, usually these are optimized versions. You can also read a brief description of a DSA in a `README` and run test cases specified in a `.test.ts` file, see more in [Testing](#testing).
+Some algorithms may have several implementations in a single `.go` file, usually these are optimized versions. You can also read a brief description of a DSA in a `README` and run test cases specified in a `_test.go` file, see more in [Testing](#testing).
 
 ## List of implemented DSA
 
@@ -28,16 +26,13 @@ _Currently none_
 ### Algorithms
 
 - Sorting
-  - [Bubble sort](./src/bubble-sort/)
+  - [Bubble sort](./bubble_sort/)
 - Searching
-  - [Binary search](./src/binary-search/)
+  - [Binary search](./binary_search/)
 
 ## Testing
 
-The repository uses [yarn](https://github.com/yarnpkg/yarn) for package management and [Vitest](https://github.com/vitest-dev/vitest) for testing, so setup is quite fast.
-
-1. `yarn install`
-2. `yarn test`
+Just run `go test -v ./...`
 
 ## References
 

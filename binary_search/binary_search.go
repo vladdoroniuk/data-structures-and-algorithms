@@ -1,0 +1,5 @@
+package binarysearch
+
+func binarySearch() {
+
+}
