@@ -7,7 +7,7 @@ The repository contains my own implementations of various data structures and al
 Each DSA resides in its own folder with the following structure:
 
 ```
-dsa-name
+dsa_name
 ├─ dsa_name.go
 ├─ dsa_name_test.go
 └─ README.md
