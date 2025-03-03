@@ -33,7 +33,3 @@ _Currently none_
 ## Testing
 
 Just run `go test -v ./...`
-
-## References
-
-Perhaps I should add links to books, articles and scientific papers here 🤷
