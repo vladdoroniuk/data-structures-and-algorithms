@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in Go
 
-The repository contains my own implementations of various data structures and algorithms (DSA) in [Go](https://go.dev)
+The repository contains implementations of various data structures and algorithms (DSA) in [Go](https://go.dev)
 
 ## Overview
 
