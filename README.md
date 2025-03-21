@@ -13,8 +13,6 @@ dsa_name
 └─ README.md
 ```
 
-Some algorithms may have several implementations in a single `.go` file, usually these are optimized versions. You can also read a brief description of a DSA in a `README` and run test cases specified in a `_test.go` file, see more in [Testing](#testing).
-
 ## Testing
 
 Just run `go test -v ./...`
