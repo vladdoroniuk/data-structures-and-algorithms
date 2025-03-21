@@ -15,21 +15,6 @@ dsa_name
 
 Some algorithms may have several implementations in a single `.go` file, usually these are optimized versions. You can also read a brief description of a DSA in a `README` and run test cases specified in a `_test.go` file, see more in [Testing](#testing).
 
-## List of implemented DSA
-
-The list is occasionally updated.
-
-### Data Structures
-
-_Currently none_
-
-### Algorithms
-
-- Sorting
-  - [Bubble sort](./bubble_sort/)
-- Searching
-  - [Binary search](./binary_search/)
-
 ## Testing
 
 Just run `go test -v ./...`
