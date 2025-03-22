@@ -1,1 +1,1 @@
-package selectionsort
+package selection_sort
