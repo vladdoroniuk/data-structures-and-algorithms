@@ -1,1 +1,1 @@
-package bubblesort
+package bubble_sort

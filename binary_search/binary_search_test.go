@@ -1,4 +1,4 @@
-package binarysearch
+package binary_search
 
 import (
 	"github.com/stretchr/testify/assert"
