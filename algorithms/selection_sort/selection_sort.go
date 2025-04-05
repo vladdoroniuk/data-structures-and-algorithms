@@ -2,7 +2,7 @@ package selection_sort
 
 import "cmp"
 
-func SelectionSort[S ~[]E, E cmp.Ordered](slice S) S {
+func selectionSort[S ~[]E, E cmp.Ordered](slice S) S {
 	if len(slice) < 2 {
 		return slice
 	}

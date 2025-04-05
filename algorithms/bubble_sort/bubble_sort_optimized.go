@@ -2,7 +2,7 @@ package bubble_sort
 
 import "cmp"
 
-func BubbleSortOptimized[S ~[]E, E cmp.Ordered](slice S) S {
+func bubbleSortOptimized[S ~[]E, E cmp.Ordered](slice S) S {
 	if len(slice) < 2 {
 		return slice
 	}
